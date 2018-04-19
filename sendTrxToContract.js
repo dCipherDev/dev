@@ -93,4 +93,3 @@ setTimeout(GetSensorData, 59000) ;
 })
 
 
-//test
