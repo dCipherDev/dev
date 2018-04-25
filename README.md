@@ -11,6 +11,16 @@
 > - Raspberry Pi 2 with Raspbian <br />
 > - Sense_HAT board<br />
 
+### 2. Store the temperature returned by an IOT device in an Ethereum Smart Contract
+>node sendTrxToContract.js 
+#### Description:
+>This script is a proof of concept of how to interact with ethereum blockchain based on senzor data provided by RaspPi.
+
+#### Prerequisites
+
+> - Raspberry Pi 2 with Raspbian <br />
+> - Sense_HAT board<br />
+
 ##### Authors
 * **Radu** - *Initial work* - [dCipher](https://github.com/dCipherDev)
 
